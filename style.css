@@ -6,7 +6,7 @@ body{background-color:#000000; color:#ffffff; font-family:arial;}
 	#principal{margin-left:60px;}
 	#rate{margin-left:22px;}
 	#years{margin-left:28px;}
-	button{margin-left:80px;}
+	button{margin-left:80px; cursor:pointer;}
 	footer span{font-size:20px;}
 	#result{display:block; margin-left:80px;}
 
